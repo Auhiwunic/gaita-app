@@ -1,0 +1,5 @@
+GoogleService-Info.plist
+*.env
+.DS_Store
+build/
+DerivedData/
